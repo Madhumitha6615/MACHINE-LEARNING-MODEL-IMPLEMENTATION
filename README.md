@@ -11,3 +11,7 @@
 *DURATION*: 4 WEEKS
 
 *MENTOR*: NEELA SANTHOSH
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/77c98e99-0b8d-4088-968d-072e8bf2b420)
